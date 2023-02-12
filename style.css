@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+#ab{
+    size: 36px;
+    color: blue;
+}
+.font{
+    size: 24px;
+    color: green;
+}
+*{
+    margin: 10px;
+    padding: 10px;
+}
